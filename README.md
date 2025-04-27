@@ -18,12 +18,12 @@ The dataset is created from Turkish subset of a news corpus [MLSUM](https://hugg
 | Question Type       | Number of Samples |
 |---------------------|-------------------|
 | Comparison          | 500               |
-| Temporal            | 500               |
+| Temporal            | 499               |
 | Inference           | 724               |
-| Context Fusion      | 500               |
+| Context Fusion      | 496               |
 | Null                | 500               |
 
-**Total:** 2,723 samples
+**Total:** 2,719 samples
 
 ## Citation
 
