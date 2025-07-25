@@ -30,7 +30,13 @@ The dataset is created from Turkish subset of a news corpus [MLSUM](https://hugg
 Please cite this work as follows if you use this dataset or code in your research:
 
 ```bibtex
-
+@inproceedings{turkuaz-rag-paper,
+  author    = {E. S. Uysal and M. F. Amasyali},
+  title     = {Turkuaz-RAG — A Turkish Multi-Context Retrieval Benchmark},
+  booktitle = {Proceedings of the Akıllı Sistemlerde Yenilikler ve Uygulamaları (ASYU)},
+  year      = {2025},
+  note      = {in press}
+}
 ```
 
 ## License
