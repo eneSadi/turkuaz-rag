@@ -30,13 +30,16 @@ The dataset is created from Turkish subset of a news corpus [MLSUM](https://hugg
 Please cite this work as follows if you use this dataset or code in your research:
 
 ```bibtex
-@inproceedings{turkuaz-rag-paper,
-  author    = {E. S. Uysal and M. F. Amasyali},
-  title     = {Turkuaz-RAG — A Turkish Multi-Context Retrieval Benchmark},
-  booktitle = {Proceedings of the Akıllı Sistemlerde Yenilikler ve Uygulamaları (ASYU)},
-  year      = {2025},
-  note      = {in press}
-}
+@INPROCEEDINGS{11208268,
+  author={Uysal, Enes Sadi and Amasyali, Mehmet Fatih},
+  booktitle={2025 Innovations in Intelligent Systems and Applications Conference (ASYU)}, 
+  title={Turkuaz-RAG — A Turkish Multi-Context Retrieval Benchmark}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Technological innovation;Large language models;Retrieval augmented generation;Training data;Focusing;Benchmark testing;Information retrieval;Question answering (information retrieval);Multilingual;Intelligent systems;Retrieval-Augmented Generation (RAG);MultiContext Retrieval;Multi-Context RAG Benchmark;Information Retrieval;Question Answering;Turkish NLP},
+  doi={10.1109/ASYU67174.2025.11208268}}
 ```
 
 ## License
